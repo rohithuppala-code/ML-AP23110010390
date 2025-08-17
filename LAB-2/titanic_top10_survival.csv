@@ -1,0 +1,11 @@
+sex,class,embark_town,n,surv_rate
+female,First,Cherbourg,43,0.9767441860465116
+female,First,Southampton,50,0.96
+female,Second,Southampton,67,0.9104477611940298
+female,Third,Queenstown,33,0.7272727272727273
+male,First,Cherbourg,42,0.40476190476190477
+female,Third,Southampton,88,0.375
+male,First,Southampton,79,0.35443037974683544
+male,Third,Cherbourg,43,0.23255813953488372
+male,Second,Southampton,97,0.15463917525773196
+male,Third,Southampton,265,0.12830188679245283
